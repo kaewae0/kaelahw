@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 work on constraints 
 ## Video Walkthrough 
 
-https://github.com/vid.mov
+https://media.discordapp.net/attachments/1029880989733892156/1148022610530156654/vid.mov
 
 
 
