@@ -18,14 +18,16 @@ The following **required** functionality is completed:
  
 The following **optional** features are implemented:
 
-- [x ] Improve and customize the user interface through styling and coloring
+- [x] Improve and customize the user interface through styling and coloring
 - [ ] Allow users to scroll when context items are off-screen (table view implemention)
 
 The following **additional** features are implemented:
 
 - [x] List anything else that you can get done to improve the app functionality!
 work on constraints 
-## Video Walkthrough
+## Video Walkthrough 
+
+https://github.com/vid.mov
 
 
 
